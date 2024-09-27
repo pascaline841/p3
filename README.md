@@ -1,4 +1,4 @@
-<h1 align="center">Designez une application Python adaptée aux besoins d'un client  -  OpenClassRooms Project 03 </h1><br>
+<h1 align="center">Designez une application Python adaptée aux besoins d'un client</h1><br>
 <br>
 Ce script Python est le troisieme projet réalisé dans le cadre d'une formation chez OpenClassrooms. 
 <br>
